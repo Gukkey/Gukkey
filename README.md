@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact&theme=tokyonight)
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
